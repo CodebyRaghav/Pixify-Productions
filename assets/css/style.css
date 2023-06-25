@@ -789,7 +789,7 @@ hr {
 
 .cs-accent_color2,
 .cs-accent_color_hover:hover {
-  color: #FF4A17;
+  color: #5c51ef;
 }
 
 .cs-white_bg {
@@ -907,7 +907,7 @@ hr {
 
 .cs-accent_bg,
 .cs-accent_bg_hover:hover {
-  background-color: #FF4A17;
+  background-color: #5c51ef;
 }
 
 .cs-primary_bg,
@@ -1014,7 +1014,7 @@ hr {
   line-height: 1.5em;
   font-weight: 600;
   border-radius: 15px;
-  background-color: #FF4A17;
+  background-color: #5c51ef;
   color: #fff;
   cursor: pointer;
 }
@@ -1111,7 +1111,7 @@ hr {
 }
 
 .cs-pagination_item.active {
-  background-color: #FF4A17;
+  background-color: #5c51ef;
   color: #fff;
   pointer-events: none;
 }
@@ -1130,7 +1130,7 @@ hr {
 }
 
 .cs-form_field:focus {
-  border-color: #FF4A17;
+  border-color: #5c51ef;
 }
 
 label {
@@ -1216,11 +1216,11 @@ label {
 }
 
 .cs-accordian_head:hover .cs-accordian_title {
-  color: #FF4A17;
+  color: #5c51ef;
 }
 
 .cs-accordian {
-  border-bottom: 2px solid #FF4A17;
+  border-bottom: 2px solid #5c51ef;
   padding-bottom: 25px;
 }
 
@@ -2094,7 +2094,7 @@ label {
   width: 100%;
   right: -60px;
   bottom: -60px;
-  background-color: #FF4A17;
+  background-color: #5c51ef;
   border-radius: inherit;
 }
 
@@ -2767,8 +2767,8 @@ label {
 .cs-pagination.cs-style1 li {
   height: 16px;
   width: 16px;
-  background-color: #FF4A17;
-  border: 1px solid #FF4A17;
+  background-color: #5c51ef;
+  border: 1px solid #5c51ef;
   border-radius: 50%;
   margin: 0 8px;
   cursor: pointer;
@@ -2787,7 +2787,7 @@ label {
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: #FF4A17;
+  background-color: #5c51ef;
 }
 
 .cs-pagination.cs-style1 li.slick-active {
@@ -2815,8 +2815,8 @@ label {
 .cs-swiper_pagination .swiper-pagination-bullet {
   height: 16px;
   width: 16px;
-  background-color: #FF4A17;
-  border: 1px solid #FF4A17;
+  background-color: #5c51ef;
+  border: 1px solid #5c51ef;
   border-radius: 50%;
   margin: 0 8px !important;
   cursor: pointer;
@@ -2966,8 +2966,8 @@ label {
 
 .cs-slider_arrows.cs-style1 .slick-arrow:hover {
   color: #fff;
-  background-color: #FF4A17;
-  border-color: #FF4A17;
+  background-color: #5c51ef;
+  border-color: #5c51ef;
 }
 
 .cs-slider_arrows.cs-style2 .slick-arrow {
@@ -3097,8 +3097,8 @@ label {
 }
 
 .slider-for .slick-arrow:hover {
-  background-color: #FF4A17;
-  border-color: #FF4A17;
+  background-color: #5c51ef;
+  border-color: #5c51ef;
 }
 
 .slider-for .slick-prev {
@@ -4374,13 +4374,13 @@ ul:not(.cs-mega_wrapper)
 }
 
 .cs-social_btns.cs-style1 a:hover {
-  border-color: #FF4A17;
+  border-color: #5c51ef;
   -webkit-transform: scale(1.08);
           transform: scale(1.08);
 }
 
 .cs-social_btns.cs-style1 a:hover svg {
-  fill: #FF4A17;
+  fill: #5c51ef;
 }
 
 .cs-newsletter.cs-style1 .cs-newsletter_form {
@@ -4693,7 +4693,7 @@ ul:not(.cs-mega_wrapper)
   left: 50%;
   margin-left: -5px;
   border-radius: 50%;
-  background-color: #FF4A17;
+  background-color: #5c51ef;
   bottom: -5px;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -4714,7 +4714,7 @@ ul:not(.cs-mega_wrapper)
 }
 
 .cs-isotop_filter.cs-style1 .active a {
-  color: #FF4A17;
+  color: #5c51ef;
 }
 
 .cs-isotop_filter.cs-style1 .active a::before {
@@ -8154,7 +8154,7 @@ ul:not(.cs-mega_wrapper)
   transform: scale(1.04);
   background-color: #2d3035;
   .custom-card1_content a{
-    background-color: rgb(206,70,70);
+    background-color: #5c51ef;
     color: #f6f5f3;
   }
 }
@@ -8177,7 +8177,7 @@ ul:not(.cs-mega_wrapper)
   justify-content: center;
   align-items: center;
   height: 65px;
-  border: 2px solid rgb(206,70,70);
+  border: 2px solid #5c51ef;
   border-radius: 8px;
 }
 .custom-card2{
