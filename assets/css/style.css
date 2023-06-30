@@ -931,8 +931,8 @@ hr {
 }
 
 .cs-text_btn :hover{
-  color: currentColor;
-  cursor: auto;
+   color: currentColor;
+  cursor: pointer;
 }
 
 .cs-text_btn svg {
@@ -1820,7 +1820,7 @@ label {
   height: 0px;
   border-top: 9px solid transparent;
   border-bottom: 9px solid transparent;
-  border-left: 14px solid #FF4A17;
+  border-left: 14px solid #5c51ef;
 }
 
 .cs-shape_wrap_1 {
@@ -5537,6 +5537,7 @@ ul:not(.cs-mega_wrapper)
   color: #f6f5f3;
   background-color: #5c51ef;
   cursor: pointer;
+  transform: scale(1.10);
 }
 .cs-hero_subtitle{
   text-align: center;
